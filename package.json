@@ -9,9 +9,9 @@
   "author": "Tyler Malone <rtylermalone@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/chyld/mean-template/issues"
+    "url": "https://github.com/rtmalone/nss-angulator/issues"
   },
-  "homepage": https://github.com/rtmalone/nss-angulator"",
+  "homepage": "https://github.com/rtmalone/nss-angulator",
   "dependencies": {
     "express": "^4.8.8",
     "morgan": "^1.3.0"
